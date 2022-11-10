@@ -45,3 +45,14 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 <a href="http://www.github.com/NeoN3o"><img src="https://activity-graph.herokuapp.com/graph?username=NeoN3o&bg_color=1c1917&color=facc15&line=22c55e&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/NeoN3o" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoN3o&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NeoN3o&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
