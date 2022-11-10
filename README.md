@@ -4,6 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Enthusiast | Python Developer | Programmer
 ------------------------------------------------
 
+  <p align = "center">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Cyber+Enthusiast;Python+Developer;Programmer"><br>
+  </p>
+  
+
 Vellore Institute of Technology - Bhopal Campus. I'm passionate about programming. I love exploring new opportunities and doing things no one has done before. I am studying B-Tech CSE (Cyber Security and Digital Forensics) at VIT Bhopal.
 
 * 🌍  I'm based in India
