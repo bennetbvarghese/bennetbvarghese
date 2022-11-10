@@ -12,7 +12,7 @@ Cyber Enthusiast | Python Developer | Programmer
 Vellore Institute of Technology - Bhopal Campus. I'm passionate about programming. I love exploring new opportunities and doing things no one has done before. I am studying B-Tech CSE (Cyber Security and Digital Forensics) at VIT Bhopal.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [agent98bp@gmail.vom](mailto:agent98bp@gmail.vom)
+* ✉️  You can contact me at [agent98bp@gmail.com](mailto:agent98bp@gmail.com)
 * 🧠  I'm learning Cyber Security
 * ⚡  Neo
 
