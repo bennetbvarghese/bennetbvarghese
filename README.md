@@ -47,7 +47,7 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 
 <a href="http://www.github.com/NeoN3o"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoN3o&stroke=facc15&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/NeoN3o"><img src="https://activity-graph.herokuapp.com/graph?username=NeoN3o&bg_color=1c1917&color=facc15&line=22c55e&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/NeoN3o"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NeoN3o&theme=rogue" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/NeoN3o" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoN3o&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
