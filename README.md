@@ -43,16 +43,16 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-stats.vercel.app/api?username=NeoN3o&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeoN3o's GitHub stats" /></a>
+<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-stats.vercel.app/api?username=bennetbvarghese&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeoN3o's GitHub stats" /></a>
 
-<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoN3o&stroke=facc15&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bennetbvarghese&stroke=facc15&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NeoN3o&theme=rogue" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bennetbvarghese&theme=rogue" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/bennetbvarghese" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoN3o&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bennetbvarghese" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennetbvarghese&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bennetbvargheseo&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bennetbvarghese&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
