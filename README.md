@@ -54,10 +54,10 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bennetbvarghese&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
 
 ---
