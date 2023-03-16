@@ -49,7 +49,7 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 
 <a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bennetbvarghese&theme=rogue" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/bennetbvarghese" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennetbvarghese" alt="Top Languages" /></a>
+<a href="https://github.com/bennetbvarghese" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennetbvarghese&theme=dark" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bennetbvarghese&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
