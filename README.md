@@ -43,7 +43,7 @@ Vellore Institute of Technology - Bhopal Campus. I'm passionate about programmin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-stats.vercel.app/api?username=bennetbvarghese&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeoN3o's GitHub stats" /></a>
+![Bennetbvarghese's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennetbvarghese&show_icons=true&theme=radical)
 
 <a href="http://www.github.com/bennetbvarghese"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bennetbvarghese&stroke=facc15&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
